@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+img{
+    position: relative;
+    left: 1rem;
+    margin-top: 20px;
+    width: 300px;
+}
+
+p{
+    font-size: 20px;
+}
+
+body{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,228,233,1) 100%);
+overflow-x: hidden;
+}
+
+article{
+    position: relative;
+    left: 1rem;
+    width: calc(100% - 10px);
+}
+
+.top_baslik{
+    position: relative;
+    left: 2rem;
+}
+
+.guzellik{
+    width: 200px;
+    position: relative;
+    left: 20%;
+    margin-top: 2rem;
+}
+
+p{
+    margin: 1rem;
+}
+
+div{
+    background-color: bisque;
+    width: 300px;
+    border-radius: 15px;
+    padding: 10px;
+}
